@@ -151,4 +151,7 @@ exports.types = {
 http://www.cnblogs.com/shawn-xie/archive/2013/06/06/3121173.html
 https://segmentfault.com/a/1190000005101903
 
+
+转载自liaofeiyin！！！
+
 感谢！！！
