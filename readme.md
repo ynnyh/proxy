@@ -12,7 +12,7 @@
 
 在CMD中切换到文件所在地址，键入：`node start.js`开启服务
 
-下载地址：[这里](https://github.com/CaptainLiao/node)
+下载地址：[这里](https://github.com/ynnyh/proxy)
 
 ### 配置http服务器和 http-proxy 转发请求
 
